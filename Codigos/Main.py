@@ -8,7 +8,7 @@ Created on Mon Oct 25 19:04:49 2021
 import pandas as pd
 import os
 from sequencealignment import SequenceAlignment
-from kmedoids import Kmedoids
+from kmedoid import Kmedoids
 from matplotlib import pyplot as plt
 
 caminho=r"C:\Users\alexa\OneDrive\Área de Trabalho\Disciplinas mestrado\02 - Mineração de dados\projeto\atual_total\\"
